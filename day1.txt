@@ -4,3 +4,4 @@ Git is free software.
 第二天
 第三天
 Git has a mutable index called stage.
+git 远程仓库
